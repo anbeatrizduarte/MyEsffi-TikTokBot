@@ -6,7 +6,7 @@ This robot is used to create tiktok accounts with temporary emails
 
 # How To Install
 
-Install the files of the repository
+Install the files of the repository or you can install the complete program with executable through the link: https://mega.nz/folder/jUMEnbSQ#rr30SeCAUTpxGDJ-cykQOQ
 
 # How To Use
 
