@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tiktok-captcha-solver": "^0.0.9"
+  }
+}
