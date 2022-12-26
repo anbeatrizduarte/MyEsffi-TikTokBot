@@ -25,7 +25,7 @@ If you have any questions or suggestions, you can contact me.
 
 My contacts:
 
-Email: bana2229@gmail.com
-Twitter: @myesffi
-Discord: esfihaa#1506
+- Email: bana2229@gmail.com
+- Twitter: @myesffi
+- Discord: esfihaa#1506
 
